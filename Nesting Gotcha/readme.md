@@ -25,3 +25,28 @@ function Parent () {
 - Cada vez que el componente padre es renderizado, tambien re define el componente **Child**, lo que significa que recibe una nueva direccion en memoria, lo cual puede causar problemas de rendimiento en el futuro.
 
 ## Solucion
+
+- No definir completamente un componente **Child**
+- Mover al componente **Child** afuera del componente padre y pasarle la funcion como un prop.
+
+```
+const Child = ({onClick}) => {
+    return <button onClick={onClick}>+</button>
+}
+
+function Parent() {
+
+    const [count, setCount] = useState(0);
+
+    const handleClick = () => setCount(count + 1);
+
+    return (
+        <div>
+            <Child onClick={handleClick} />
+        </div>
+    )
+}
+
+
+
+```
