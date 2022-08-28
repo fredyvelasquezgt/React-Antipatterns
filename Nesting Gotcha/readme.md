@@ -46,7 +46,4 @@ function Parent() {
         </div>
     )
 }
-
-
-
 ```
