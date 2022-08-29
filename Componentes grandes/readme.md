@@ -6,7 +6,7 @@ Es común que al comenzar a hacer una App sea complicado establecer exactamente 
 
 ## Problema
 
-El problema surge porque se crea un componente excesivamente grande el cual es dificil de comprender, refactorizar y testear.
+El problema surge porque se crea un componente excesivamente grande, el cual es dificil de comprender, refactorizar y testear.
 
 ## Solución
 
