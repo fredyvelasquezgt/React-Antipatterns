@@ -8,7 +8,7 @@ Es común que al comenzar a hacer una App sea complicado establecer exactamente 
 
 El problema surge porque se crea un componente excesivamente grande el cual es dificil de comprender, refactorizar y testear.
 
-## Solucion
+## Solución
 
 La solución radica en refactorizar el código en componentes reutilizables.
 
