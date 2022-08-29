@@ -2,7 +2,7 @@
 
 ## Motivo
 
-Es comun que al comenzar a hacer una App sea complicado establecer exactamente como estará organizado el código. El tratar de optimizar todo desde un principio puede tomar mucho tiempo y puede ser inútil.
+Es común que al comenzar a hacer una App sea complicado establecer exactamente como estará organizado el código. El tratar de optimizar todo desde un principio puede tomar mucho tiempo y puede ser inútil.
 
 ## Problema
 
