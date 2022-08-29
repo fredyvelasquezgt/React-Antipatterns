@@ -24,7 +24,7 @@ function Parent () {
 
 - Cada vez que el componente padre es renderizado, tambien re define el componente **Child**, lo que significa que recibe una nueva direccion en memoria, lo cual puede causar problemas de rendimiento en el futuro.
 
-## Solucion
+## Solución
 
 - No definir completamente un componente **Child**
 - Mover al componente **Child** afuera del componente padre y pasarle la funcion como un prop.
