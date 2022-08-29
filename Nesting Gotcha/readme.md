@@ -22,7 +22,7 @@ function Parent () {
 
 ## Problema
 
-- Cada vez que el componente padre es renderizado, tambien re define el componente **Child**, lo que significa que recibe una nueva direccion en memoria, lo cual puede causar problemas de rendimiento en el futuro.
+- Cada vez que el componente padre es renderizado, también re define el componente **Child**, lo que significa que recibe una nueva direccion en memoria, lo cual puede causar problemas de rendimiento en el futuro.
 
 ## Solución
 
