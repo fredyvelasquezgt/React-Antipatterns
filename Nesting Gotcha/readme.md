@@ -1,6 +1,6 @@
 # Nesting Gotcha
 
-En este ejemplo definimos un componente **Child** el cual se encuentra dentro del componente padre. El **Child** usa una funcion que esta definida en el padre, lo cual me evita definir un prop para esa funcion. A simple vista, esto funciona y se ve bien, pero hay un problema grande.
+En este ejemplo definimos un componente **Child** el cual se encuentra dentro del componente padre. El **Child** usa una función que esta definida en el padre, lo cual me evita definir un prop para esa funcion. A simple vista, esto funciona y se ve bien, pero hay un problema grande.
 
 ```
 function Parent () {
