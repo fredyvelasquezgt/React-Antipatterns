@@ -14,4 +14,4 @@ La solución radica en refactorizar el código en componentes reutilizables.
 
 ### Tip
 
-Existe una extensión en VS Code llamada _glean_ la cual permite que el proceso de refactorizacion sea mas sencillo.
+Existe una extensión en VS Code llamada _glean_ la cual permite que el proceso de refactorización sea mas sencillo.
