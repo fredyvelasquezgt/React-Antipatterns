@@ -24,7 +24,7 @@ function Page() {
 
 ## Solución
 
-Un truco bastante ingenioso de Javascript es crear una función Curry. Básicamente, una función Curry es aquella que retorna otra función. La función exterior toma los argumentos personalizados, mientras que la función interior maneja el evento que le es pasado por default, esto evita tener que crear una arrow function por cada evento
+Un truco bastante ingenioso de Javascript es crear una función Curry. Básicamente, una función Curry es aquella que retorna otra función. La función exterior toma los argumentos personalizados, mientras que la función interior maneja el evento que le es pasado por default, esto evita tener que crear una función de flecha por cada evento
 
 ```
 function Page() {
