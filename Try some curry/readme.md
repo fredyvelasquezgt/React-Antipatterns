@@ -2,7 +2,7 @@
 
 ## Problema
 
-El codigo puede volverse sucio en JSX cuando manejo los eventos. Lo que pasa, es que puedo tener una función que tome como primer argumento un evento, pero uno o más valores como el argumento secundario, esto quiere decir que al momento de llamarlo necesito descomponer una **arrow function** , lo cual puede resultar dificultoso si lo hago en varios lugares
+El codigo puede volverse sucio en JSX cuando manejo los eventos. Lo que pasa, es que puedo tener una función que tome como primer argumento un evento, pero uno o más valores como el argumento secundario, esto quiere decir que al momento de llamarlo necesito descomponer una **arrow function** , lo cual puede resultar dificultoso si lo hago en varios lugares.
 
 ```
 function Page() {
