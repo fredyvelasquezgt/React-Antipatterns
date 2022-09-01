@@ -1,6 +1,6 @@
 # Archivos sucios
 
-A medida que nuestra aplicacion crece, tambien lo harán nuestros archivos, por lo que estaremos buscando siempre la forma correcta de organizar el proyecto.
+A medida que nuestra aplicación crece, tambien lo harán nuestros archivos, por lo que estaremos buscando siempre la forma correcta de organizar el proyecto.
 
 ## Problema
 
