@@ -8,7 +8,7 @@ La siguiente imagen muestra una forma incorrecta de lidiar con los archivos.
 
 <img src="../src/files.png" height=350>
 
-## Solucion
+## Solución
 
 ### Un componente por archivo
 
