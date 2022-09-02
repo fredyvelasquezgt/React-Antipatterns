@@ -27,7 +27,7 @@ function Parent () {
 ## Solución
 
 - No definir completamente un componente **Child**
-- Mover al componente **Child** afuera del componente padre y pasarle la funcion como un prop.
+- Mover al componente **Child** afuera del componente padre y pasarle la función como un prop.
 
 ```
 const Child = ({onClick}) => {
