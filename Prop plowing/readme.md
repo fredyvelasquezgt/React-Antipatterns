@@ -23,7 +23,7 @@ function Page() {
 
 ## Solución
 
-Usar el operador **spread** para pasar todos los props al mismo tiempo. Esto hace que el codigo sea mas eficiente pero un poco menos explicito, por lo que es recomendado solo usarlo cuando realmente se esté trabajando con un componente el cual reciba demasiados props.
+Usar el operador **spread** para pasar todos los props al mismo tiempo. Esto hace que el codigo sea mas eficiente pero un poco menos explicito, por lo que es recomendado solo usarlo cuando realmente se esté trabajando con un componente el cual reciba demasiados props
 
 ```
 function Page() {
